@@ -1,0 +1,6 @@
+stock_id,price,stock_name,close
+1,100,AAPL,101
+2,200,GOOGL,202
+3,300,MSFT,303
+4,400,AMZN,404
+5,500,TSLA,505
